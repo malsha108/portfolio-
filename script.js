@@ -50,6 +50,23 @@ const projects = [
     github: "https://github.com/malsha108#:~:text=Public-,Hotel%2DManagement%2DSystem,-Public",
     thumb: `<img src="HHH.PNG" alt="Hotel Management System screenshot">`
   },
+  {  
+    tag: "02 · UI/UX Design",
+    name: "StayEase – Hotel Booking Website",
+    short: "A modern hotel booking website designed to help users discover comfortable hotels and plan their stays easily.",
+    type: "UI/UX Design",
+    desc: "A modern hotel booking website UI/UX design created in Figma with a clean and user-friendly interface for discovering hotels and making bookings.",
+    tech: ["Figma", "Auto Layout", "Components", "Prototyping"],
+    features: [
+      "Hotel search and discovery",
+      "Hotel cards with pricing and ratings",
+      "Hotel information and facilities",
+      "Booking interface",
+      "Responsive design concept"
+    ],
+    figma: "https://www.figma.com/design/wNHM7Y3uiCP3mIMbTzb88G/Untitled?node-id=33-30&t=w8WFFjYiptpoow9i-1",
+    thumb: `<img src="stayease.png" alt="StayEase Hotel Booking Website design">`
+  },
   {
     tag: "02 · UI/UX Case Study",
     name: "FoodHub",
